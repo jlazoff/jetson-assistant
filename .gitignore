@@ -67,3 +67,4 @@ Thumbs.db
 # Internal docs (not for public distribution)
 CLAUDE.md
 SOTA_*.md
+uv.lock
